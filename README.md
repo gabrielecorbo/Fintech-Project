@@ -1,5 +1,5 @@
 
-# Machine Learning Project for the FINTECH course
+# Estimating Client's Needs using Machine Learning
 
 This project was realized for the [FINTECH (055643)](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=765485&polij_device_category=DESKTOP&__pj0=0&__pj1=6f1f8b0974c3b06a03479e20d6f81371) course, held at Politecnico di Milano, A.Y. 2021/2022.
 
